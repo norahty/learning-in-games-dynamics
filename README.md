@@ -16,7 +16,7 @@ This project adopts a **geometric and dynamical perspective** on learning in gam
 
 ## Contents
 
-- `report/`  
+- `CIS_6200_Final_Report_NH.pdf/`  
   Final written report describing the motivation, methodology, experiments, and findings.
 
 - `slides/`  
