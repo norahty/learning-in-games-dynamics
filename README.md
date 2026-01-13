@@ -32,7 +32,7 @@ This project adopts a **geometric and dynamical perspective** on learning in gam
 - These structures are not visible under standard Euclidean embeddings or time-averaged analysis.
 - Simple geometric diagnostics (e.g., radius stability and angular structure) help characterize learning behavior beyond regret bounds.
 
-Overall, the results suggest that **learning rules encode structural information about the game in their trajectories**, even when classical convergence guarantees do not apply.
+Overall, the results suggest that learning rules encode structural information about the game in their trajectories.
 
 ---
 
