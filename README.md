@@ -51,9 +51,6 @@ This project is exploratory and foundational in nature. Possible directions for 
 - Formal characterization of trajectory geometry across broader classes of games
 - Connections between geometric structure and exploitability or predictability
 - Extensions to additional learning rules and interaction models
-
-The work may be further developed into a workshop or theory-oriented publication.
-
 ---
 
 ## Contact
