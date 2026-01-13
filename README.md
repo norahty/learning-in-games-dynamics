@@ -1,6 +1,6 @@
 # Geometric Structure of No-Regret Learning Dynamics
 
-This repository contains the **final report and presentation slides** for a research project studying the **trajectory-level behavior of no-regret learning algorithms in repeated games**.
+This repository contains the report and presentation slides for a research project studying the **trajectory-level behavior of no-regret learning algorithms in repeated games**.
 
 The project focuses on understanding *how* learning dynamics evolve over time—not just whether time-averaged regret converges—and on identifying **algorithm-specific geometric structure** in the evolution of joint action distributions.
 
